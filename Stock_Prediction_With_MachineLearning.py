@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jul 22 14:29:15 2024
-
-@author: Rabia KAŞIKCI
-"""
 
 # -*- coding: utf-8 -*-
 """
